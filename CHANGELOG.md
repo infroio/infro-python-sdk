@@ -4,6 +4,10 @@ All three INFRO SDKs share one version line: a customer reading a changelog
 should not have to work out which of three independent version numbers applies
 to them.
 
+## 0.1.1
+
+- Link the package metadata to its public GitHub repository and issue tracker.
+
 ## 0.1.0
 
 First release.
