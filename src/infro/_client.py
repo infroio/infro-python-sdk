@@ -39,7 +39,7 @@ __all__ = ["DEFAULT_BASE_URL", "VERSION", "Transport", "AsyncTransport", "backof
 #: Published production base URL. Overridable for staging and for tests.
 DEFAULT_BASE_URL = "https://api.infro.io/v1"
 
-VERSION = "0.1.0"
+VERSION = "0.1.2"
 
 _DEFAULT_TIMEOUT = 600.0
 _DEFAULT_MAX_RETRIES = 2

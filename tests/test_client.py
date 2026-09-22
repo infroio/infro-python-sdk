@@ -115,7 +115,7 @@ def test_authenticates_and_identifies_itself():
     client.keys.retrieve()
 
     assert sent[0].headers["authorization"] == f"Bearer {KEY}"
-    assert sent[0].headers["user-agent"].startswith("infro-python/")
+    assert sent[0].headers["user-agent"] == "infro-python/0.1.2"
 
 
 def test_carries_an_idempotency_key_on_a_write():
