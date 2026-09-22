@@ -1,7 +1,7 @@
 # infro
 
 [![PyPI](https://img.shields.io/pypi/v/infro)](https://pypi.org/project/infro/)
-[![CI](https://github.com/infroio/python-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/infroio/python-sdk/actions/workflows/ci.yml)
+[![CI](https://github.com/infroio/infro-python-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/infroio/infro-python-sdk/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/pypi/pyversions/infro)](https://pypi.org/project/infro/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Typed](https://img.shields.io/badge/typing-py.typed-blue.svg)](https://peps.python.org/pep-0561/)
